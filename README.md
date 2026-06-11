@@ -1,5 +1,8 @@
 # Reducing Terraform Deployment Downtime
 
+> [!NOTE]
+> This repo has been archived and is no longer under development. OpenCredo is now part of [Trifork](https://github.com/trifork).
+
 This GitHub repo demonstrates the usage of a couple of Terraform features (you can skip directly to them
 [here](#trick1) and [here](#trick2)) that can reduce the downtime or unavailability of Terraform managed
 resources. For this demonstration, we've built a simple Go HTTP server. We package this server
